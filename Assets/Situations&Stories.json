@@ -1,0 +1,604 @@
+{
+	"situation": [
+		{
+			"name": "Supplication",
+			"stories": ["The suppliant appeals to the power in authority for deliverance from the persecutor."],
+			"characters": [
+				{
+					"character": "suppliant",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "power in authority",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "persecutor",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Deliverance",
+			"stories": ["The unfortunate has caused a conflict, and the threatener is to carry out justice, but the rescuer saves the unfortunate."],
+			"characters": [
+				{
+					"character": "unfortunate",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "threatener",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "rescuer",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Crime pursued by vengeance",
+			"stories": ["The criminal commits a crime that will not see justice, so the avenger seeks justice by punishing the criminal."],
+			"characters": [
+				{
+					"character": "criminal",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "avenger",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Vengeance taken for kin upon kin",
+			"stories": ["Two entities, the Guilty and the Avenging Kinsmen, are put into conflict over wrongdoing to the Victim, who is allied to both."],
+			"characters": [
+				{
+					"character": "Guilty Kinsman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Avenging Kinsman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "remembrance of the Victim",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Pursuit",
+			"stories": ["The fugitive flees punishment for a misunderstood conflict."],
+			"characters": [
+				{
+					"character": "punishment",
+					"typeOfCharacter": "fact"
+				},
+				{
+					"character": "fugitive",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Disaster",
+			"stories": ["The vanquished power falls from their place after being defeated by the victorious enemy or being informed of such a defeat by the messenger."],
+			"characters": [
+				{
+					"character": "vanquished power",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "victorious enemy",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Falling prey to cruelty/misfortune",
+			"stories": ["The unfortunate suffers from misfortune and/or at the hands of the master."],
+			"characters": [
+				{
+					"character": "unfortunate",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "master",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Revolt",
+			"stories": ["The tyrant, a cruel power, is plotted against by the conspirator."],
+			"characters": [
+				{
+					"character": "tyrant",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "conspirator",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Daring enterprise",
+			"stories": ["The bold leader takes the object from the adversary by overpowering the adversary."],
+			"characters": [
+				{
+					"character": "bold leader",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "object",
+					"typeOfCharacter": "fact"
+				},
+				{
+					"character": "adversary",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "Abduction",
+			"stories": ["The abductor takes the abducted from the guardian."],
+			"characters": [
+				{
+					"character": "abductor",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "abducted",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "guardian",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "The enigma",
+			"stories": ["The interrogator poses a problem to the seeker and gives a seeker better ability to reach the seeker's goals."],
+			"characters": [
+				{
+					"character": "problem",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "interrogator",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "seeker",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Obtaining",
+			"stories": ["The solicitor is at odds with the adversary who refuses to give the solicitor an object in the possession of the adversary"],
+			"characters": [
+				{
+					"character": "arbitrator",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "opposing parties",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Enmity of kin",
+			"stories": ["The Malevolent Kinsman and the Hated or a second Malevolent Kinsman conspire together."],
+			"characters": [
+				{
+					"character": "Malevolent Kinsman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Hated",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Rivalry of kin",
+			"stories": ["The Object of Rivalry chooses the Preferred Kinsman over the Rejected Kinsman."],
+			"characters": [
+				{
+					"character": "Preferred Kinsman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Rejected Kinsman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Object of Rivalry",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "Murderous adultery",
+			"stories": ["Two Adulterers conspire to kill the Betrayed Spouse."],
+			"characters": [
+				{
+					"character": "first Adulterer",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "second Adulterer",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Betrayed Spouse",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Madness",
+			"stories": ["The Madman goes insane and wrongs the Victim."],
+			"characters": [
+				{
+					"character": "Madman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Victim",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Fatal imprudence",
+			"stories": ["The Imprudent, by neglect or ignorance, loses the Object Lost or wrongs the Victim."],
+			"characters": [
+				{
+					"character": "Imprudent",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Victim",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Involuntary crimes of love",
+			"stories": ["The Lover and the Beloved have unknowingly broken a taboo through their romantic relationship, and the Revealer reveals this to them."],
+			"characters": [
+				{
+					"character": "Lover",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Beloved",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Revealer",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Slaying of kin unrecognized",
+			"stories": ["The Slayer kills the Unrecognized Victim."],
+			"characters": [
+				{
+					"character": "Slayer",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Unrecognized Victim",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Self-sacrifice for an ideal",
+			"stories": ["The Hero sacrifices the Person or Thing for their Ideal, which is then taken by the Creditor."],
+			"characters": [
+				{
+					"character": "Hero",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Ideal",
+					"typeOfCharacter": "fact"
+				},
+				{
+					"character": "Creditor",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Self-sacrifice for kin",
+			"stories": ["The Hero sacrifices a Person for their Kinsman, which is then taken by the Creditor."],
+			"characters": [
+				{
+					"character": "Hero",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Kinsman",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Person",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "All sacrificed for passion",
+			"stories": ["A Lover sacrifices a Person for the Object of their Passion, which is then lost forever."],
+			"characters": [
+				{
+					"character": "Lover",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Object of fatal Passion",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Thing sacrificed",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "Necessity of sacrificing loved ones",
+			"stories": ["The Hero wrongs the Beloved Victim because of the Necessity for their Sacrifice."],
+			"characters": [
+				{
+					"character": "Hero",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Beloved Victim",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Necessity for the Sacrifice",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "Rivalry of superior vs. inferior",
+			"stories": ["An Inferior Rival bests a Superior Rival and wins the Object of Rivalry."],
+			"characters": [
+				{
+					"character": "Superior Rival",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Inferior Rival",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Object of Rivalry",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "Adultery",
+			"stories": ["Two Adulterers conspire against the Deceived Spouse."],
+			"characters": [
+				{
+					"character": "first Adulterer",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "second Adulterer",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Deceived Spouse",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Crimes of love",
+			"stories": ["A Lover and the Beloved break a taboo by initiating a romantic relationship."],
+			"characters": [
+				{
+					"character": "Lover",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Beloved",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Discovery of the dishonour of a loved one",
+			"stories": ["The Discoverer discovers the wrongdoing committed by the Guilty One."],
+			"characters": [
+				{
+					"character": "Discoverer",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Guilty One",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Obstacles to love",
+			"stories": ["Two Lovers face an Obstacle together."],
+			"characters": [
+				{
+					"character": "first Lover",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "second Lover",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Obstacle",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "An enemy loved",
+			"stories": ["The allied Lover and Hater have diametrically opposed attitudes towards the Beloved Enemy."],
+			"characters": [
+				{
+					"character": "Lover",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Beloved Enemy",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Hater",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Ambition",
+			"stories": ["The Ambitious Person seeks the Thing Coveted and is opposed by the Adversary."],
+			"characters": [
+				{
+					"character": "Ambitious Person",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Thing Coveted",
+					"typeOfCharacter": "fact"
+				},
+				{
+					"character": "Adversary",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Conflict with a god",
+			"stories": ["The Mortal and the Immortal enter a conflict."],
+			"characters": [
+				{
+					"character": "Mortal",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Immortal",
+					"typeOfCharacter": "god"
+				}
+			]
+		},
+		{
+			"name": "Mistaken jealousy",
+			"stories": ["The Jealous One falls victim to the Author of the Mistake and becomes jealous of the Object and becomes conflicted with the Supposed Accomplice."],
+			"characters": [
+				{
+					"character": "Jealous One",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Object of whose Possession He is Jealous",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Supposed Accomplice",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Cause",
+					"typeOfCharacter": "fact"
+				}
+			]
+		},
+		{
+			"name": "Erroneous judgment",
+			"stories": ["The Mistaken One falls victim to the Author of the Mistake and passes judgment against the Victim of the Mistake when it should be passed against the Guilty One instead."],
+			"characters": [
+				{
+					"character": "Mistaken One",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Victim of the Mistake",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Cause",
+					"typeOfCharacter": "fact"
+				},
+				{
+					"character": "the Guilty One",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Remorse",
+			"stories": ["The Culprit wrongs the Victim or commits the Sin, and is at odds with the Interrogator who seeks to understand the situation."],
+			"characters": [
+				{
+					"character": "Culprit",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Victim",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Interrogator",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Recovery of a lost one",
+			"stories": ["The Seeker finds the One Found."],
+			"characters": [
+				{
+					"character": "Seeker",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "One Found",
+					"typeOfCharacter": "man"
+				}
+			]
+		},
+		{
+			"name": "Loss of loved ones",
+			"stories": ["The killing of the Kinsman Slain by the Executioner is witnessed by the Kinsman."],
+			"characters": [
+				{
+					"character": "Kinsman Slain",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Kinsman Spectator",
+					"typeOfCharacter": "man"
+				},
+				{
+					"character": "Executioner",
+					"typeOfCharacter": "man"
+				}
+			]
+		}
+	]
+}
