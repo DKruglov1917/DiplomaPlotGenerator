@@ -1,0 +1,40 @@
+{
+	"quest":
+	[
+		{
+			"name": "Kill",
+			"questString1": "to kill",
+			"possibleTarget1": ["man", "god"],
+			"questString2": "for",
+			"possibleTarget2": ["man", "god", "object", "fact"]
+		},
+		{
+			"name": "Delivery",
+			"questString1": "to bring",
+			"possibleTarget1": ["object"],
+			"questString2": "to",
+			"possibleTarget2": ["man", "god"]
+		},
+		{
+			"name": "Gather",
+			"questString1": "to collect",
+			"possibleTarget1": ["object"],
+			"questString2": "for",
+			"possibleTarget2": ["man", "god"]
+		},
+		{
+			"name": "Escort",
+			"questString1": "to escort",
+			"possibleTarget1": ["man", "god", "object"],
+			"questString2": "to",
+			"possibleTarget2": ["man", "god"]
+		},
+		{
+			"name": "Syntax",
+			"questString1": "to speak with",
+			"possibleTarget1": ["man", "god"],
+			"questString2": "about",
+			"possibleTarget2": ["man", "god", "object", "fact"]
+		}
+	]		
+}

@@ -1,0 +1,9 @@
+Money
+Gold
+Food
+Jewelry
+Wealth
+Clothes
+Antiques
+Heirlooms
+Book

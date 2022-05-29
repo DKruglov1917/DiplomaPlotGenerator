@@ -98,7 +98,7 @@
 		},
 		{
 			"name": "Falling prey to cruelty/misfortune",
-			"stories": ["The unfortunate suffers from misfortune and/or at the hands of the master."],
+			"stories": ["The unfortunate suffers at the hands of the master."],
 			"characters": [
 				{
 					"character": "unfortunate",
@@ -134,11 +134,11 @@
 				},
 				{
 					"character": "object",
-					"typeOfCharacter": "fact"
+					"typeOfCharacter": "object"
 				},
 				{
 					"character": "adversary",
-					"typeOfCharacter": "fact"
+					"typeOfCharacter": "man"
 				}
 			]
 		},
@@ -220,7 +220,7 @@
 				},
 				{
 					"character": "Object of Rivalry",
-					"typeOfCharacter": "fact"
+					"typeOfCharacter": "man"
 				}
 			]
 		},
@@ -351,8 +351,8 @@
 					"typeOfCharacter": "man"
 				},
 				{
-					"character": "Thing sacrificed",
-					"typeOfCharacter": "fact"
+					"character": "Person sacrificed",
+					"typeOfCharacter": "man"
 				}
 			]
 		},
@@ -388,7 +388,7 @@
 				},
 				{
 					"character": "Object of Rivalry",
-					"typeOfCharacter": "fact"
+					"typeOfCharacter": "object"
 				}
 			]
 		},
@@ -484,7 +484,7 @@
 				},
 				{
 					"character": "Thing Coveted",
-					"typeOfCharacter": "fact"
+					"typeOfCharacter": "object"
 				},
 				{
 					"character": "Adversary",
@@ -552,7 +552,7 @@
 		},
 		{
 			"name": "Remorse",
-			"stories": ["The Culprit wrongs the Victim or commits the Sin, and is at odds with the Interrogator who seeks to understand the situation."],
+			"stories": ["The Culprit wrongs the Victim, and is at odds with the Interrogator who seeks to understand the situation."],
 			"characters": [
 				{
 					"character": "Culprit",
